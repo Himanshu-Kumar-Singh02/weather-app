@@ -1,0 +1,171 @@
+#title{
+  background-color: #537ec5;
+  color:white;
+  padding: 0 6%;
+}
+/* .navbar-nav{
+  color: white;
+} */
+.titrow{
+  padding: 10% 0;
+}
+.z{
+  color:white;
+}
+.nav-link{
+  font-size: 1.5rem;
+  margin-left: 50px;
+}
+.navbar-toggler-icon{
+  background-color: white;
+}
+
+.imgcta{
+  height: 85px;
+  width:180px;
+}
+h2{
+  color: #537ec5;
+}
+#cta{
+  padding: 7% 16%;
+  background-color: #1b1b2f;
+  color:white;
+}
+#features{
+  text-align: left;
+    padding: 7% 12%;
+}
+.fas{
+  font-size: 3rem;
+  color: orange;
+}
+.td1{
+ padding-right: 10%;
+
+}
+#footer{
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+#screenshots{
+  padding: 3% 12%;
+}
+.ssimg{
+  /* height: 600px; */
+  width: 400px;
+}
+/* .pad{
+  padding-top: 10%;
+} */
+.ssimg2{
+  margin-top: 30%;
+  width:200px;
+  height:200px;
+}
+#slide{
+  padding: 4% 12%;
+  background-color: lightgrey;
+}
+.carousel-item{
+  padding: 0 20%;
+  height: 100%;
+  width:100%;
+}
+#reviews{
+    padding: 7% 12%;
+}
+.reviews_item_icon1{
+  color: blue;
+  font-size: 5rem;
+}
+.reviews_item_icon{
+  color:blue;
+  font-size: 5rem;
+}
+.st{
+  font-style: italic;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+.quote-mini{
+  border: 1px solid lightgrey;
+}
+
+@media (max-width:991px) {
+  .navbar-toggler-icon{
+    font-size: 4rem;
+  }
+  .nav-link{
+    font-size: 2rem;
+  }
+  .navbar-brand{
+      font-size: 2.5rem;
+  }
+  h1{
+    font-size: 5rem;
+  }
+  h2{
+    font-size: 5rem;
+  }
+  .screenhead{
+      font-size: 4rem;
+  }
+  h5{
+    font-size: 4rem;
+  }
+  p{
+    font-size: 3rem;
+  }
+  .titlebutton{
+    font-size: 3rem;
+    margin-bottom: 90px;
+  }
+  .fas{
+    font-size: 6rem;
+  }
+  .feature-box{
+    padding: 10% 0;
+  }
+  #features{
+      padding: 7% 5%;
+  }
+  .cta-heading{
+    font-size: 5rem;
+  }
+  .st{
+    font-size: 4rem;
+  }
+  #cta{
+    padding: 7% 5%;
+  }
+  .imgcta{
+    height: 160px;
+    width:360px;
+  }
+  #reviews{
+      padding: 7% 5%;
+  }
+  #screenshots{
+    padding: 3% 10%;
+  }
+  .ssimg{
+    width:100%;
+  }
+  .ssimg2{
+    margin-top: 80px;
+  }
+.ln{
+  border-bottom: 5px solid lightgrey;
+}
+#slide{
+  padding: 4% 0;
+  background-color: lightgrey;
+}
+.carousel-item{
+  padding: 0 15%;
+  height: 100%;
+  width:100%;
+}
+}
